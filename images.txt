@@ -6,6 +6,7 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 node:20-alpine
 node:23.10.0-alpine
+node:20-bullseye
 python:alpine3.19
 python:3.9-slim
 python:3.10-slim
